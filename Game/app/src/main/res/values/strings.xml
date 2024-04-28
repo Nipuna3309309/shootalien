@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">I Have To Fly!</string>
+    <string name="paragraph">\"In this game, your plane continuously
+        moves downward while automatically shooting. Control the plane\'s up
+        movements by tapping the left side of the screen.You can shoot by the right sid
+        e of the screen. Your objective is to survive as long as possible, shooting down enem
+        y targets that appear on the right side. Earn points by destroying enemies  . The game f
+        eatures an endless mode with increasing difficulty. Compete for high scores and enjoy the fas
+        t-paced action!\"\n\n\n\n\n\n\n</string>
+    <string name="back">Back\n</string>
+    <string name="InstructionsBTn">Instructions</string>
+    <string name="Wingwars">Wing Wars</string>
+</resources>
